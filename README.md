@@ -1,1 +1,3 @@
-# PUBG Male Costume Black Jeans
+## PUBG Male Costume Black Jeans
+
+- **This mod only applies to male characters**

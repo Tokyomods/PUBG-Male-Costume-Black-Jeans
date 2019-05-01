@@ -1,0 +1,10 @@
+{
+    "name": "PUBG-Male-Costume-Black-Jeans",
+    "category": "client",
+    "description": "This mod will change the appearance of the PUBG event costume, making jeans and tie black.",
+    "author": "Tokyomods",
+    "options": {
+        "niceName": "PUBG Male Costume Black Jeans"
+    },
+    "servers": ["https://raw.githubusercontent.com/Tokyomods/PUBG-Male-Costume-Black-Jeans/master"]
+}
